@@ -1,0 +1,2 @@
+1. Phải đảm bảo mỗi lần train mô hình thì dữ liệu đều phải có các state của các episode đầu, vậy mới thắng được random.
+2. Thời gian train nên giới hạn trong 2h, train nhiều hơn cũng không tốt hơn được.

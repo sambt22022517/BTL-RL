@@ -1,0 +1,46 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Cache files
+*.cache
+*.egg-info/
+*.eggs/
+*.sqlite3
+
+# Node.js
+node_modules/
+
+# Python specific
+*.pkl
+*.py[cod]
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.o
+*.a
+
+# Django
+*.db
+media/
+staticfiles/
