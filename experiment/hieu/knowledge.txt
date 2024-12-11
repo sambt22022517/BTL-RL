@@ -1,1 +1,2 @@
 1. Nếu có sử dụng buffer lưu trữ dữ liệu, đừng ưu tiên quá 1 cái j đó (lấy tất không bỏ qua cái j).
+2. Link: https://www.kaggle.com/code/hkdraconic/rl-final
