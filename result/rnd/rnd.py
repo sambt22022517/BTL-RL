@@ -9,4 +9,4 @@ class RandomQNetwork(nn.Module):
         self.device = device
 
     def forward(self, obs):
-        return torch.rand((1, self.action_shape))
+        return torch.rand((1, self.action_shape)).to(self.device)
